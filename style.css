@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:aqua;
+    margin:10px;
+}
+
+header img {
+    margin:10px;
+}
+
+.hed {
+    font-family: Arial;
+    text-align:center;
+    color:navy;
+}
+
+footer {
+    background-color:burlywood;
+    border:5px solid burlywood;
+}
+
+footer p {
+    background-color: white;
+    margin:5px;
+}
+
+nav {
+    background-color:white;
+}
+
+nav a {
+    background-color: navy;
+    color: white;
+    border:2px solid navy;
+    border-radius:10px;
+    margin:10px;
+    padding:4px;
+    text-decoration:none;
+}
+
+.product {
+    background-color:white;
+    color: navy;
+    border:2px solid navy;
+    border-radius:10px;
+}
+
+.products2 {
+    background-color:peru;
+    border:1px solid peru;
+    border-radius: 10px;
+    padding:5px;
+}
+
+main h2 {
+    color: blue;
+    font-size: 30px;
+}
+
+.ahref1 {
+    text-decoration:none;
+    border:2px solid blue;
+    padding:5px;
+}
